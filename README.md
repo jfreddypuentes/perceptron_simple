@@ -21,8 +21,10 @@ perceptron.fit(X, y)
 ~~~
 cp.plot_errors_diagrams(perceptron)
 ~~~
+![Iteraciones](/iteraciones.png)
 
 ### Dibujar las regiones de clasificación.
 ~~~
 cp.plot_desicion_regions(X, y, classifier=perceptron)
 ~~~
+![Areas de Clasificación](/clasificacion.png)
