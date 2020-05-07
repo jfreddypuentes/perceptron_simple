@@ -1,6 +1,6 @@
 # Perceptron
 Programación del modelo más sencillo de red neuronal creado por Frank Rosenblatt.
-La neurona artificial tiene un discrimidor o estimdor lineal.
+La neurona artificial tiene un discriminador o estimdor lineal.
 
 
 ### Tasa de aprendizaje
