@@ -2,6 +2,11 @@
 Programación del modelo más sencillo de red neuronal creado por Frank Rosenblatt.
 La neurona artificial tiene un discriminador o estimdor lineal.
 
+### Algoritmo
+- Iniciar los pesos en 0 o números aleatorios pequeños.
+- Para cada una de las muestras de entranmiento xi:
+  - Calcular el valor de yi
+  - Actualizar los pesos
 
 ### Tasa de aprendizaje
 El modelo aprende con una tasa de aprendizaje de 0.1 en 7 iteraciones. A partir de la 6 ya converge.
